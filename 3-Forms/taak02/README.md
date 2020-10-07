@@ -12,7 +12,7 @@ Je moet eerst taak 01 hebben gemaakt om deze uitbreidingstaak te kunnen maken.
 
 In taak 01 heb je gezien dat een input-field van een formulier kan worden gebruikt in het PHP-script waarnaar het formulier wordt verstuurd.
 
-Je hebt dit gedaan met simpele text-input-fields. Je kunt ook andere input-fields hiervoor gebruiken. Zolang het veld een naam heeft, kan het worden verstuurd en worden gebruikt als een $_POST variabele.
+Je hebt dit gedaan met simpele text-input-fields. Je kunt ook andere input-fields hiervoor gebruiken. Zolang het veld een naam heeft , kan het worden verstuurd en worden gebruikt als een $_POST variabele.
 
 Als herhaling zou je de video van de eerste taak over POSTS kunnen bekijken:
 
