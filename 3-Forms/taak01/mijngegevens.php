@@ -12,7 +12,7 @@
         leeftijd: <?php echo $_POST["fname"];?><br>
         adres: <?php echo $_POST["fname"];?><br>
         plaatsnaam: <?php echo $_POST["fname"];?><br>
-        favoriete muziekband <?php echo $_POST["fname"];?><br></P>
+        favoriete muziekband: <?php echo $_POST["fname"];?><br></P>
 
 
     
